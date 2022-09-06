@@ -1,0 +1,5 @@
+.navbar{
+    background-color: hsla(0, 0%, 78%, 0.603) !important;
+    backdrop-filter: saturate(150%) blur(4px);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
